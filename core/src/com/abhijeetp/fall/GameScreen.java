@@ -196,7 +196,7 @@ public class GameScreen implements Screen {
             }
             Infinity = Infinity - 1;
             if (drop.overlaps(caveman)) {
-                iter.remove();
+                iter.remove(); //removes stuff
                 game.setScreen(new MainMenuScreen(game));
                 dispose();
             }
