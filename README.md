@@ -1,3 +1,3 @@
 # Fall-
-A mobile friendly android game built with the libgdx framework
+A android game built with the libgdx framework
 
